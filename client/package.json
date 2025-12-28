@@ -17,7 +17,7 @@
     "@excalidraw/excalidraw": "^0.18.0",
     "@supabase/supabase-js": "^2.58.0",
     "ethers": "^6.16.0",
-    "next": "15.3.4",
+    "next": "16.1.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "web3": "^4.16.0"
