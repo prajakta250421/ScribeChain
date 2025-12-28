@@ -1,7 +1,7 @@
 // API configuration utility
 export const API_CONFIG = {
-  BASE_URL: process.env.NEXT_PUBLIC_API_URL || "http://localhost:8080",
-  WS_URL: process.env.NEXT_PUBLIC_WS_URL || "ws://localhost:8080",
+  BASE_URL: "https://scribechain.onrender.com",
+  WS_URL: "wss://scribechain.onrender.com",
 } as const;
 
 // API endpoints
